@@ -1,0 +1,14 @@
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.runtimeconfig.json
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.genruntimeconfig.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll

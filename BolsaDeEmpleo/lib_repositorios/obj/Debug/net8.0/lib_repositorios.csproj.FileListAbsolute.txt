@@ -1,0 +1,17 @@
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.runtimeconfig.json
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_entidades.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\bin\Debug\net8.0\lib_entidades.pdb
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\lib_repositorios.genruntimeconfig.cache
+D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll

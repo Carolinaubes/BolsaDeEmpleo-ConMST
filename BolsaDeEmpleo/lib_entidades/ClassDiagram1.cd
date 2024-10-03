@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lib_entidades.Cargos">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Cargos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib_entidades.Cargos_Estudios">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAICAgA=</HashCode>
+      <FileName>Cargos_Estudios.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="_Cargo" />
+      <Property Name="_Estudio" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="lib_entidades.Empresas">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>Empresas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib_entidades.Estudios">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Estudios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib_entidades.Personas">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAIACAAAAAAAAAAAAAAAAAAAAAAAQAAgA=</HashCode>
+      <FileName>Personas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lib_entidades.Personas_Estudios">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAICCgA=</HashCode>
+      <FileName>Personas_Estudios.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="_Estudio" />
+      <Property Name="_Persona" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="lib_entidades.Postulaciones">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAEACAAAABAAAAAAAAAAAAEACgA=</HashCode>
+      <FileName>Postulaciones.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="_Personas" />
+      <Property Name="_Vacantes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="lib_entidades.Vacantes">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAIAAAACEAAAAAAAAAAAIAAAAAQACAAgA=</HashCode>
+      <FileName>Vacantes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="_Cargo" />
+      <Property Name="_Empresa" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
