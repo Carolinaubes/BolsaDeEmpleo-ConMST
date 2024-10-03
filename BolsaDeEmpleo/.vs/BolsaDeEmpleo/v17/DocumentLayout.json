@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\",
+  "WorkspaceRootPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|d:\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\empresaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\empresaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|d:\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\interfaces\\ipersonas_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ipersonas_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\cargos_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\cargos_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmpresasPruebaUnitaria.cs",
-              "DocumentMoniker": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "ToolTip": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "Cargos_EstudiosPruebaUnitaria.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
+              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
+              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
+              "RelativeToolTip": "mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T00:26:14.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IPersonas_EstudiosRepositorio.cs",
-              "DocumentMoniker": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "ToolTip": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T00:26:02.316Z",
+              "WhenOpened": "2024-10-03T19:31:02.928Z",
               "EditorCaption": ""
             }
           ]

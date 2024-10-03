@@ -12,3 +12,18 @@ D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\refint\l
 D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
 D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.genruntimeconfig.cache
 D:\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.deps.json
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.runtimeconfig.json
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.dll
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\bin\Debug\net8.0\lib_entidades.pdb
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.AssemblyReference.cache
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfoInputs.cache
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.AssemblyInfo.cs
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.csproj.CoreCompileInputs.cache
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.sourcelink.json
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.dll
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\refint\lib_entidades.dll
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.pdb
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\lib_entidades.genruntimeconfig.cache
+C:\Users\Janus\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\BOLSADEEMPLEO_PS_MarJue\BolsaDeEmpleo\lib_entidades\obj\Debug\net8.0\ref\lib_entidades.dll

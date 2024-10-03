@@ -3729,11 +3729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\mst_pruebas.csproj",
+      "projectUniqueName": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\mst_pruebas.csproj",
       "projectName": "mst_pruebas",
-      "projectPath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\mst_pruebas.csproj",
+      "projectPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\mst_pruebas.csproj",
       "packagesPath": "C:\\Users\\Janus\\.nuget\\packages\\",
-      "outputPath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\obj\\",
+      "outputPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Janus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3751,11 +3751,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\lib_entidades.csproj": {
-              "projectPath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\lib_entidades.csproj"
+            "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\lib_entidades.csproj": {
+              "projectPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\lib_entidades.csproj"
             },
-            "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj": {
-              "projectPath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj"
+            "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj": {
+              "projectPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj"
             }
           }
         }

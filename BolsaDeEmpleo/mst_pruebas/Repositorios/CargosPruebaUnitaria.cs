@@ -15,7 +15,7 @@ namespace mst_pruebas.Repositorios
         public CargosPruebaUnitaria()
         {
             var conexion = new Conexion();
-            conexion.StringConnection = "server=DESKTOP-D1091LH\\DEV;database=BolsaDeEmpleo;uid=sa;pwd=3312;TrustServerCertificate=true;";
+            conexion.StringConnection = "server=DESKTOP-D1091LH\\DEV;database=BolsaDeEmpleo;Integrated Security=True;TrustServerCertificate=true;";
             //Se instancia un objeto de la clase CargosRepositorio, que implementa ICargosRepositorio, y se asigna a iRepositorio. Esto permite que iRepositorio use los métodos de la clase hija CargosRepositorio
             iRepositorio = new CargosRepositorio(conexion);
         }

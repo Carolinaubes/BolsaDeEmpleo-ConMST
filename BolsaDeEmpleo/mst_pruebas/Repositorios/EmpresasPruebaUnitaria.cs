@@ -15,7 +15,7 @@ namespace mst_pruebas.Repositorios
         public EmpresasPruebaUnitaria()
         {
             var conexion = new Conexion();
-            conexion.StringConnection = "server=DESKTOP-D1091LH\\DEV;database=BolsaDeEmpleo;uid=sa;pwd=3312;TrustServerCertificate=true;";
+            conexion.StringConnection = "server=DESKTOP-D1091LH\\DEV;database=BolsaDeEmpleo;Integrated Security=True;TrustServerCertificate=true;";
             //Se instancia un objeto de la clase EmpresasRepositorio, que implementa IEmpresasRepositorio, y se asigna a iRepositorio. Esto permite que iRepositorio use los métodos de la clase hija EmpresasRepositorio
             iRepositorio = new EmpresasRepositorio(conexion);
         }
