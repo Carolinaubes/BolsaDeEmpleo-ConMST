@@ -17,7 +17,7 @@ namespace mst_pruebas.Repositorios
             var conexion = new Conexion();
             conexion.StringConnection = "server=DESKTOP-D1091LH\\DEV;database=BolsaDeEmpleo;Integrated Security=True;TrustServerCertificate=true;";
             //Se instancia un objeto de la clase CargosRepositorio, que implementa ICargosRepositorio, y se asigna a iRepositorio. Esto permite que iRepositorio use los métodos de la clase hija CargosRepositorio
-            iRepositorio = new CargosRepositorio(conexion);
+            iRepositorio = new CargosRepositorio(conexion); //Aca se esta inicializando la conexion dentro de la clase CargosRepositorio para que iRepositorio pueda usar los metodos con normalidad.
         }
 
         [TestMethod]

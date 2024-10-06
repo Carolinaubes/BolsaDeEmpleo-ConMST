@@ -3,64 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\vacantespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\vacantespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\postulacionespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\postulacionespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\personaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\personaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\personas_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\personas_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\empresaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\empresaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\cargospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\cargospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\mst_pruebas\\repositorios\\cargos_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CF4B0BC-33BA-42ED-A462-5DE02B38EB34}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\cargos_estudiospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\implementaciones\\postulacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\postulacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85DBFDBB-0EB7-4759-BAC9-577581B605A7}|lib_entidades\\lib_entidades.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_entidades\\personas_estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85DBFDBB-0EB7-4759-BAC9-577581B605A7}|lib_entidades\\lib_entidades.csproj|solutionrelative:lib_entidades\\personas_estudios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\interfaces\\ipersonas_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\ipersonas_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\interfaces\\icargos_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\icargos_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\implementaciones\\cargosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\cargosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\janus\\onedrive - instituto tecnologico metropolitano - itm\\desktop\\bolsadeempleo_ps_marjue\\bolsadeempleo\\lib_repositorios\\implementaciones\\cargos_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFCA67E-814D-48FB-8B5A-FC1B5F12EBFB}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\cargos_estudiosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,201 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CargosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\CargosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\CargosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\CargosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\CargosPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:19:31.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmpresasPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\EmpresasPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:19:49.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EstudiosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EstudiosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\EstudiosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\EstudiosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\EstudiosPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:20:12.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Personas_EstudiosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Personas_EstudiosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\Personas_EstudiosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Personas_EstudiosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\Personas_EstudiosPruebaUnitaria.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T01:22:32.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonasPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:20:34.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PostulacionesPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\PostulacionesPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\PostulacionesPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\PostulacionesPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\PostulacionesPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:20:39.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VacantesPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\VacantesPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\VacantesPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\VacantesPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\VacantesPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:20:47.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Cargos_EstudiosPruebaUnitaria.cs",
               "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
               "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
               "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
               "RelativeToolTip": "mst_pruebas\\Repositorios\\Cargos_EstudiosPruebaUnitaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:18:08.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Conexion.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Conexion.cs",
-              "RelativeToolTip": "lib_repositorios\\Conexion.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowEUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:18:02.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PostulacionesRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\PostulacionesRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PostulacionesRepositorio.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\PostulacionesRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PostulacionesRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:21:21.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Personas_Estudios.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\Personas_Estudios.cs",
-              "RelativeDocumentMoniker": "lib_entidades\\Personas_Estudios.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_entidades\\Personas_Estudios.cs",
-              "RelativeToolTip": "lib_entidades\\Personas_Estudios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:21:24.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPersonas_EstudiosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IPersonas_EstudiosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:21:18.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICargos_EstudiosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\ICargos_EstudiosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\ICargos_EstudiosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Interfaces\\ICargos_EstudiosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\ICargos_EstudiosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:17:56.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CargosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\CargosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\CargosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\CargosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\CargosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:17:52.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Cargos_EstudiosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\Cargos_EstudiosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Cargos_EstudiosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\Implementaciones\\Cargos_EstudiosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Cargos_EstudiosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T19:17:48.163Z",
+              "WhenOpened": "2024-10-03T19:31:02.928Z",
               "EditorCaption": ""
             }
           ]

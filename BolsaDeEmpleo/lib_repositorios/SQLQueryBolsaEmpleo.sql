@@ -78,7 +78,7 @@ CREATE TABLE Postulaciones( --Tabla Postulaciones
 );
 go
 
---Validando la creacion de la tablas
+--Validando que las tablas hayan sido creadas correctamente
 SELECT * FROM Empresas;
 SELECT * FROM Personas;
 SELECT * FROM Estudios;
