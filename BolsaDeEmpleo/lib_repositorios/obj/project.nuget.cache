@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xhuL+W9oI7Q=",
+  "dgSpecHash": "L9T5vTIIhoM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Janus\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\Desktop\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj",
+  "projectFilePath": "D:\\BOLSADEEMPLEO_PS_MarJue\\BolsaDeEmpleo\\lib_repositorios\\lib_repositorios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Janus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Janus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

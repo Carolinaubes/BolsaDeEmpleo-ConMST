@@ -8,7 +8,7 @@ public class Cargos_EstudiosRepositorio : ICargos_EstudiosRepositorio
 {
     private Conexion? conexion = null; //Objeto de la clase conexion
 
-    public Cargos_EstudiosRepositorio(Conexion conexion)
+    public Cargos_EstudiosRepositorio(Conexion conexion) //Inyeccion de dependencias
     {
         this.conexion = conexion;
     }
